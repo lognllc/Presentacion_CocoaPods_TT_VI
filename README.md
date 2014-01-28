@@ -1,12 +1,10 @@
-impress.js
+[Log(n) Costa Rica](http://log.co) - Tech Talks
 ============
 
-It's a presentation framework based on the power of CSS3 transforms and 
-transitions in modern browsers and inspired by the idea behind prezi.com.
-
-**WARNING**
-
-impress.js may not help you if you have nothing interesting to say ;)
+*Temas:*
+- Intro to Polymer.js - Daniel Fernandez 
+- Migrations with Node.js - David Cortes
+- CocoaPods - [Esteban Torres](https://github.com/esttorhe)
 
 
 HOW TO USE IT
