@@ -1,4 +1,4 @@
-[Log(n) Costa Rica](http://log.co) - Tech Talks
+[Log(n)](http://log.co) Costa Rica - Tech Talks
 ============
 
 *Temas:*
