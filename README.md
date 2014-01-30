@@ -3,11 +3,11 @@
 
 *Temas:*
 - Intro to Polymer.js - Daniel Fernandez 
-- Migrations with Node.js - David Cortes
+- Migrations with Node.js - [David Cortes](https://github.com/dcortes22)
 - CocoaPods - [Esteban Torres](https://github.com/esttorhe)
 
 
-HOW TO USE IT
+#`[CocoaPods](http://cocoapods.org)`
 ---------------
 
 [Use the source](http://github.com/bartaz/impress.js/blob/master/index.html), Luke ;)
