@@ -9,7 +9,8 @@
 
 #CocoaPods
 
-Esta presentación es sobre [CocoaPods](http://cocoapods.org); que es, su aplicación en proyectos de `ObjC`; como colaborar y sus ventajas.
+Esta presentación es sobre [CocoaPods](http://cocoapods.org).
+"qué es?", su aplicación en proyectos de `ObjC`, como colaborar y sus ventajas.
 
 La presentación fue hecha utilizando [`impress.js`](https://github.com/bartaz/impress.js/) por [@bartaz](http://twitter.com/bartaz).
 
