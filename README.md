@@ -7,7 +7,7 @@
 - CocoaPods - [Esteban Torres](https://github.com/esttorhe)
 
 
-#`[CocoaPods](http://cocoapods.org)`
+#[`CocoaPods`](http://cocoapods.org)
 ---------------
 
 [Use the source](http://github.com/bartaz/impress.js/blob/master/index.html), Luke ;)
